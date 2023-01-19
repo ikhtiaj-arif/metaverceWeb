@@ -17,6 +17,7 @@ const Navbar = () => (
       <h2 className="font-extrabold text-[24px] landing-[30px] text-white">
         METAVERSUS
       </h2>
+      <img src="/menu.svg" alt="menu" className="w-[24px] h-[24px] object-contain" />
     </div>
   </motion.nav>
 );
